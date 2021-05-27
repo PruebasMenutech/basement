@@ -15,7 +15,7 @@ html {
   width: 100%;
   height: 80vh;
   position: relative;
-  background: url(https://pruebasmenutech.github.io/basement/docs/fondo.jpg);
+  background: url('./assets/img/fongo.jpg');
   background-attachment: fixed;
 }
 
