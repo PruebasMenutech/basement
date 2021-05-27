@@ -15,7 +15,7 @@ html {
   width: 100%;
   height: 80vh;
   position: relative;
-  background: url(/assets/img/fondo.jpg?h=6cb7b83c8ce51d135868be0eeb4dad9d);
+  background: url(./assets/img/fondo.jpg);
   background-attachment: fixed;
 }
 
